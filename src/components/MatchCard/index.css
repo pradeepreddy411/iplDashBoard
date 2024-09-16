@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.match-card-container {
+  background-color: #0f172a;
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  width: 30%;
+  border-radius: 10px;
+}
+.match-logo {
+  height: 80px;
+  width: 100px;
+}
+.match-heading {
+  font-size: 18px;
+  font-weight: 500;
+  color: #ffffff;
+}
+.match-description {
+  font-size: 15px;
+  color: #ffffff;
+}
+.lost {
+  font-size: 18px;
+  font-weight: 500;
+  color: #e31a1a;
+}
+.won {
+  font-size: 18px;
+  font-weight: 500;
+  color: #18ed66;
+}

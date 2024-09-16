@@ -1,0 +1,59 @@
+/* Write your CSS here */
+.latest-match-container {
+  margin-top: 24px;
+}
+.latest-match-heading {
+  font-size: 16px;
+  color: #ffffff;
+  font-weight: 500;
+  margin-bottom: 5px;
+  font-family: 'Bree Serif';
+}
+.latest-match-first-container {
+  padding-top: 14px;
+  padding-bottom: 16px;
+  background-color: #0f172a;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: row;
+}
+.latest-match-second-container {
+  width: 70%;
+}
+.competing-team-heading {
+  font-size: 22px;
+  font-weight: bold;
+  color: #ffffff;
+}
+.date-para {
+  font-size: 18px;
+  font-weight: 500;
+  color: #ffffff;
+}
+.latest-para {
+  font-size: 12px;
+  color: #ffffff;
+}
+.image {
+  height: 120px;
+  width: 120px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.latest-match-third-container {
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}
+.latest-para {
+  font-size: 12px;
+  color: #ffffff;
+}
+.latest-match-card-logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  padding-left: 16px;
+  padding-right: 16px;
+}
